@@ -1,5 +1,3 @@
-### Individual assignment for Rory Johnston - acse-rej19
-
 # Parallelising Conway's Game of Life
 
 This repository allows the user to execute Conway's Game of Life using distributed parallelism with the Message Passing Interface (MPI). This project demonstrates how non-blocking communications between cores can be used to calculate Conway's Game of Life with drastically improved performance over serialized versions of the software. The synopsis of the findings are found in the `xxxx` report.
