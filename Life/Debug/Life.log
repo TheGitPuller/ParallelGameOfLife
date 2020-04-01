@@ -1,0 +1,8 @@
+﻿  Life.cpp
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Life\Life\Life.cpp(123,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Life.obj : error LNK2019: unresolved external symbol _MPI_Comm_size@8 referenced in function _main
+Life.obj : error LNK2019: unresolved external symbol _MPI_Comm_rank@8 referenced in function _main
+Life.obj : error LNK2019: unresolved external symbol _MPI_Init@8 referenced in function _main
+Life.obj : error LNK2019: unresolved external symbol _MPI_Finalize@0 referenced in function _main
+C:\Program Files (x86)\Microsoft SDKs\Lib\x64\msmpi.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Life\Debug\Life.exe : fatal error LNK1120: 4 unresolved externals

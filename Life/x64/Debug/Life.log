@@ -1,0 +1,22 @@
+﻿  Life.cpp
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\Life.cpp(228,64): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\Life.cpp(427,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  boundaries.cpp
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(30,114): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(49,114): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(70,115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(89,115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(107,113): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(123,107): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(142,116): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(158,116): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(177,118): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(193,118): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(211,119): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(227,119): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(245,121): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(261,121): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(279,122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\Life\boundaries.cpp(295,122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Life.vcxproj -> C:\Users\rorye\OneDrive - Imperial College London\ACSE-6\Assignment\acse-6-individual-assignment-acse-rej19\x64\Debug\Life.exe
