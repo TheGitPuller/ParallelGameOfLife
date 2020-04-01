@@ -1,6 +1,6 @@
 # Parallelising Conway's Game of Life
 
-This repository allows the user to execute Conway's Game of Life using distributed parallelism with the Message Passing Interface (MPI). This project demonstrates how non-blocking communications between cores can be used to calculate Conway's Game of Life with drastically improved performance over serialized versions of the software. The synopsis of the findings are found in the `xxxx` report.
+This repository allows the user to execute Conway's Game of Life using distributed parallelism with the Message Passing Interface (MPI). This project demonstrates how non-blocking communications between cores can be used to calculate Conway's Game of Life with drastically improved performance over serialized versions of the software. The synopsis of the findings are found in the report.
 
 ## Getting Started
 
@@ -60,14 +60,7 @@ The post-processor may then be run. The post-processor runs without any required
 * C++
 * Python
 
-## Authors
-
-* **Rory Johnston** - [rej19](https://github.com/acse-rej19)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Stephen Neethling and his team of demonstrators for useful advice and help on how to approach this problem.
